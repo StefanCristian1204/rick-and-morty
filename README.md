@@ -66,7 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Planets landing page: fetched data from Rick and Morty API
 ![r3](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/58bcd274-eb46-45f4-a0ea-cc4af49fb2a9)
+
+## Display plantes information in modal view
 ![r4](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/ecd8dff6-47e8-4133-9c88-bb6e812b19d9)
+
+## Implemented Spotify player with Rick and Morty theme song
 ![r1](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/b6b5c8c5-dbf5-444f-8330-4c80e933c56c)
+
+## Characters landing page: fetched data from Rick and Morty API
 ![r2](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/58844e8c-baef-4599-b51e-f0b5fd717fc1)
