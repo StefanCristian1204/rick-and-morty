@@ -68,13 +68,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ## Planets landing page: fetched data from Rick and Morty API
-![r3](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/58bcd274-eb46-45f4-a0ea-cc4af49fb2a9)
+![planets_page](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/a2f3608a-2514-4337-aed2-c89b2ad0da2c)
 
 ## Display plantes information in modal view
-![r4](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/ecd8dff6-47e8-4133-9c88-bb6e812b19d9)
+![planet_info](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/35de4ef8-8db5-4d01-9657-27026b388e6c)
+
+## Display character information in modal view
+![character_info](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/e74d6002-0885-442e-8f1c-66d16ff8dfb9)
 
 ## Implemented Spotify player with Rick and Morty theme song
-![r1](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/b6b5c8c5-dbf5-444f-8330-4c80e933c56c)
+![landing_page](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/77f21c7a-453b-4f0b-99b3-4c3ac487f3c0)
 
 ## Characters landing page: fetched data from Rick and Morty API
-![r2](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/58844e8c-baef-4599-b51e-f0b5fd717fc1)
+![character_page](https://github.com/StefanCristian1204/rick-and-morty/assets/97633357/7e52206f-b621-40e1-9d75-56987fc163ae)
+
